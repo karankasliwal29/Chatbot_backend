@@ -11,6 +11,7 @@ chardet==3.0.4
 charset-normalizer==3.4.1
 click==8.1.8
 colorama==0.4.6
+dateparser==1.1.8
 deep-translator==1.11.4
 distro==1.9.0
 dnspython==2.7.0
