@@ -106,6 +106,7 @@ def identify_collections(query):
         "tool": "tooldetails",
         "set life": "tooldetails",
         "threshold": "diagnostics",
+        "information for the machine": "machines",
         "planned quantity": "oeelog1",
         "defective parts": "oeelog1",
         "downtime duration": "oeelog1",
